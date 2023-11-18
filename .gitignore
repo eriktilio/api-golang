@@ -1,0 +1,19 @@
+# Arquivos binários e executáveis
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Pasta do sistema de gerenciamento de módulos
+/go.mod
+/go.sum
+
+# Pasta de dependências
+/vendor/
+
+# Arquivos de configuração do VSCode
+.vscode/
+
+# Arquivos de build
+/build/
